@@ -1,0 +1,4 @@
+DarkRoasting
+GreenRoasting
+LightRoasting
+MediumRoasting
